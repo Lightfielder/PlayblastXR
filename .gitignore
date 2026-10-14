@@ -1,0 +1,8 @@
+.DS_Store
+._.DS_Store
+Thumbs.db
+-checkpoint.ipynb
+__pycache__
+.ipynb_checkpoints/
+PlasyblastXR/Logs/
+PlasyblastXR/Temp/

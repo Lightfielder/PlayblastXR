@@ -37,7 +37,7 @@ The Star Wars centric ILM / Third Floor FMX talk a few years later in 2017, had 
 
 *This is a screenshot from the FXGuide article [Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/).*
 
-![Playblasting Starwars in 360°](Images/rogue-one-playblasts.png)
+![Playblasting Starwars in 360°](Images/Rogue-One-Playblasts.png)
 
 Something that is novel to think about is the way Rogue One's pioneering virtual production XR stage LED video wall efforts predated the industry's milestone release of Unreal Engine 5.0 (April 5, 2022) by quite a few years!
 
