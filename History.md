@@ -53,17 +53,25 @@ https://www.youtube.com/watch?v=s-lAI0GbufQ
 CG Garage Podcast with Justin Denton  
 https://www.chaos.com/cg-garage/cg-garage-podcast-33-justin-denton  
 
-
-
 ## Rogue One: A Star Wars Story (2016)
 
-FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
+PlayblastVR for Maya was used by London's [The Third Floor](https://thethirdfloorinc.com/) team on the Star Wars projects.[Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware-rendered virtual production backplates plates that were used extensively in the film inside the XR stage studio. 
 
-The story mentioned, how [Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware rendered virtual production backplates plates used extensively in the film inside the XR stage studio. 
+Interestingly, Margaux's input as an end user was the basis of the re-stitching tools that were added to the PlayblastVR Advanced Control panel. Those addition were included with PlayblastVR to help speed up shot delivery time, and allow resuming of an earlier render job via entering the PID code from a prior batch rendering job.
 
-Interestingly, Margaux's input as a user was the basis of the re-stitching tools that were added to the PlayblastVR advanced control panel. Those addition were included with PlayblastVR to help speed up shot delivery time, and allow resumable processing via entering the PID code from a prior batch rendering job.
+TouchDesigner was used on the Rogue One film project as an "iPad controlled" 2D video player engine on-set. This allowed TouchDesigner to function as a media server that played out the PlayblastVR for Maya created immersive visuals. The wrap-around 360VR footage displayed on the LED video walls for the in-space flight sequence backgrounds that had a pilot in the frame. This was done in conjunction with timed data playback to the motion base so the pilot's acting in the cockpit for the sequence would be responding realistically to the spacecraft's ICVFX (In Camera VFX) produced clips.
 
-TouchDesigner was used on the Rogue One film project as an "iPad controlled" 2D video player engine on-set. This allowed TouchDesigner to function as a media server that played out the PlayblastVR created immersive visuals, so it was displayed on the LED video walls for the in-space flight sequence backgrounds that had a pilot in the frame. This was done in conjunction with timed data playback to the motion base so the pilot's acting in the cockpit for the sequence would be responding realistically to the space craft's ICVFX clips.
+Here are trailers that show Stat Wars efforts that PlayblastVR was used on:
+
+Rogue One: A Star Wars Story  
+https://www.youtube.com/watch?v=frdj1zb9sMY  
+
+and
+
+Rogue One: Recon - A Star Wars 360 Experience  
+https://www.youtube.com/watch?v=Hh8sTR2b4zI  
+
+Interestingly, FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
 
 The Star Wars centric ILM / Third Floor FMX talk a few years later in 2017, had a presentation that disused Rouge One's pioneering Virtual Production techniques with Margaux Durand Rival being a co-presenter along with executive level staff from ILM. 
 
