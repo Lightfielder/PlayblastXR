@@ -71,9 +71,9 @@ and
 Rogue One: Recon - A Star Wars 360 Experience  
 https://www.youtube.com/watch?v=Hh8sTR2b4zI  
 
-Interestingly, FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
+The Star Wars centric ILM / Third Floor FMX talk a few years later in 2017, had a presentation that disused Rouge One's pioneering Virtual Production techniques with Margaux Durand Rival being a co-presenter along with executive level staff from ILM.
 
-The Star Wars centric ILM / Third Floor FMX talk a few years later in 2017, had a presentation that disused Rouge One's pioneering Virtual Production techniques with Margaux Durand Rival being a co-presenter along with executive level staff from ILM. 
+Interestingly, FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
 
 *This is a screenshot from the FXGuide article [Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/).*
 
