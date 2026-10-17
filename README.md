@@ -44,3 +44,7 @@ With full PlayblastXR renders you automatically get immersive playback options n
 
 Lightfielders get to enjoy the powerful nature of a "frameless" media container format that allows cinematographers to dynamically reframe and modify their camera animation work. Also, [PBR-GS](https://github.com/Lightfielder/PBR-GS) licensed tools support interactive scene relighting capabilities, that happen "downstream" of the initial playblast output since the pipeline tools operate in the volumetric domain.
 
+## PlayblastVR and Domemaster3D History
+
+If you are curious to read more about the ~16 years of developments and projects that lead to the latest refinement of these immersive tools, check out the [history writeup here](History.md).
+
