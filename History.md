@@ -31,12 +31,6 @@ A Rocket Comp was a pre-compositing companion toolset that worked alongside Play
 
 # Notable Projects
 
-## Conan VR Experience (2016)
-
-*This is a screenshot from a Pond5 article "[Inside Conan’s Head: How to Animate Your Own VR Masterpiece](https://blog.pond5.com/9535-inside-conans-head-how-to-animate-your-own-vr-masterpiece/)". It talks about a VR experience created by The Molecule, that used the "PlayblastVR for Maya" plug-in, back in the 2016 era of immersive animation*
-
-![PlayblastVR for Maya](Images/Pond5-Inside-Conans-Head.png)
-
 ## Art of Patron Tequila VR Experience (2015)
 
 PlayblastVR for Maya was used by [Justin Denton](https://www.justindenton.com/), and [Jared Sandrew](https://www.jaredsandrew.com) on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of [Mirada Studios](https://mirada.com/), First Born, and [Legend3D](https://legend3d.com/) to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
@@ -52,6 +46,12 @@ https://www.youtube.com/watch?v=s-lAI0GbufQ
 
 CG Garage Podcast with Justin Denton  
 https://www.chaos.com/cg-garage/cg-garage-podcast-33-justin-denton  
+
+## Conan VR Experience (2016)
+
+*This is a screenshot from a Pond5 article "[Inside Conan’s Head: How to Animate Your Own VR Masterpiece](https://blog.pond5.com/9535-inside-conans-head-how-to-animate-your-own-vr-masterpiece/)". It talks about a VR experience created by The Molecule, that used the "PlayblastVR for Maya" plug-in, back in the 2016 era of immersive animation*
+
+![PlayblastVR for Maya](Images/Pond5-Inside-Conans-Head.png)
 
 ## Rogue One: A Star Wars Story (2016)
 
