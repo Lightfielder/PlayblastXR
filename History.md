@@ -17,11 +17,17 @@ The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for So
 
 ### PlayblastVR for Maya
 
-PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. 
-
-This combo provided a high speed preview capacity, while supporting offline rendering with a best-in-class programmable omni-stereo lens shader that was brought to market in early 2010 with support for texture based control maps to sculpt the stereo 3D viewing experience. This occurred a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017.
+PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. This combo of PlayblastVR providing a high speed preview capacity, while Domemaster3D supported offline rendering with a best-in-class programmable omni-stereo lens shader. The lens shaders supported the use ofr texture based "control maps" to sculpt the stereo 3D viewing experience. 
 
 ![PlayblastVR for Maya](Images/PlayblastVR-for-Maya-LatLong.png)
+
+The Domemaster3D toolset existed a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017!
+
+PlayblastVR supported a deep set of features that far exceeded the native playblasting capabilities in Maya for the level of customization and control. PlayblastVR also moved Playblasting over to using the Maya Render Settings window so you could access render output based filename tokens and more. It even allowed for headless batch rendering to occur without having a Maya GUI session active via OpenGL rendering with mayabatch.
+
+You could even tear the PlayblastVR menu system off from the main menu bar to allow you to float the menu onto another monitor. This was handy on dual monitor based Maya workstation configurations.
+
+![PlayblastVR for Maya Menu- Torn Off](Images/PlayblastVR-for-Maya-Menu-Torn-Off.png)
 
 ### Rocket Comp for Maya
 
