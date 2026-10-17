@@ -4,7 +4,7 @@ In its prime, the duo of Domemaster3D/PlayblastVR (and eventually its younger si
 
 PlayblastVR was a common tool used on big projects. This occurred in the prior era of "peak-VR" that existed before major DCC packages added their own native 360VR and fulldome capabilities when things went mainstream.
 
-## Softimage
+## PlayblastVR for Softimage
 
 [PlayblastVR for Softimage](https://www.cgchannel.com/2015/11/andrew-hazelden-releases-playblastvr-for-softimage/) had a unique detail that was mentioned in the press of being the final new plugin delivered commercially to Autodesk Softimage users, in the post-cancellation period of XSI's lifecycle. 
 
@@ -13,17 +13,35 @@ The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for So
 ![PlayblastVR for Softimage](Images/PlayblastVR-for-Softimage.png)
 *This is a screenshot of 2014's PlayblastVR for Softimage plug-in*
 
-## Maya
+## PlayblastVR for Maya
 
 PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. 
 
-This combo provided a high speed preview capacity, while supporting offline rendering with a best-in-class programmable omni-stereo lens shader that was brought to market in early 2010 with support for texture based control maps to sculpt the stereo 3D viewing experience. This ocurred a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017.
+This combo provided a high speed preview capacity, while supporting offline rendering with a best-in-class programmable omni-stereo lens shader that was brought to market in early 2010 with support for texture based control maps to sculpt the stereo 3D viewing experience. This occurred a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017.
+
+![PlayblastVR for Maya](Images/playblastvr-latlong.png)
+
+## Rocket Comp for Maya
+
+A Rocket Comp was a pre-compositing companion toolset that worked alongside PlayblastVR for Maya. 
+
+![Rocket Comp](Images/rocketcomp-title.jpg)
+
+* * *
+
+# Notable Projects
+
+## Conan VR Experience (2016)
 
 *This is a screenshot from a Pond5 article "[Inside Conan’s Head: How to Animate Your Own VR Masterpiece](https://blog.pond5.com/9535-inside-conans-head-how-to-animate-your-own-vr-masterpiece/)". It talks about a VR experience created by The Molecule, that used the "PlayblastVR for Maya" plug-in, back in the 2016 era of immersive animation*
 
 ![PlayblastVR for Maya](Images/Pond5-Inside-Conans-Head.png)
 
-* * *
+## Art of Patron Tequila VR Experience
+
+PlayblastVR for Maya was used by Justin Denton, and Jared Sandrew on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of Mirada Studios, First Born, and Legend3D to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
+
+## Rogue One: A Star Wars Story (2016)
 
 FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
 
