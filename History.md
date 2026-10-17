@@ -37,9 +37,9 @@ A Rocket Comp was a pre-compositing companion toolset that worked alongside Play
 
 ![PlayblastVR for Maya](Images/Pond5-Inside-Conans-Head.png)
 
-## Art of Patron Tequila VR Experience
+## Art of Patron Tequila VR Experience (2015)
 
-PlayblastVR for Maya was used by Justin Denton, and Jared Sandrew on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of Mirada Studios, First Born, and Legend3D to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
+PlayblastVR for Maya was used by [Justin Denton](https://www.justindenton.com/), and [Jared Sandrew](https://www.jaredsandrew.com) on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of [Mirada Studios](https://mirada.com/), First Born, and [Legend3D](https://legend3d.com/) to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
 
 YouTube | 360° Video of Hacienda Patrón Tour | Patrón Tequila  
 https://www.youtube.com/watch?v=7NnvksOL96o  
@@ -49,6 +49,11 @@ https://www.youtube.com/watch?v=OJ8A4uAXshc
 
 The Patrón Oculus Virtual Reality Experience - Behind the Scenes | Patrón Tequila  
 https://www.youtube.com/watch?v=s-lAI0GbufQ  
+
+CG Garage Podcast with Justin Denton  
+https://www.chaos.com/cg-garage/cg-garage-podcast-33-justin-denton  
+
+
 
 ## Rogue One: A Star Wars Story (2016)
 
