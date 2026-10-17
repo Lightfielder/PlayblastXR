@@ -41,6 +41,15 @@ A Rocket Comp was a pre-compositing companion toolset that worked alongside Play
 
 PlayblastVR for Maya was used by Justin Denton, and Jared Sandrew on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of Mirada Studios, First Born, and Legend3D to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
 
+YouTube | 360° Video of Hacienda Patrón Tour | Patrón Tequila  
+https://www.youtube.com/watch?v=7NnvksOL96o  
+
+YouTube | Hacienda Patrón Tour | Oculus Virtual Reality Experience 2D | Patrón Tequila  
+https://www.youtube.com/watch?v=OJ8A4uAXshc  
+
+The Patrón Oculus Virtual Reality Experience - Behind the Scenes | Patrón Tequila  
+https://www.youtube.com/watch?v=s-lAI0GbufQ  
+
 ## Rogue One: A Star Wars Story (2016)
 
 FX Guide in 2016 covered the Rogue One movie and its virtual production efforts, in the article "[Part 1: Rogue One shows its Force](https://www.fxguide.com/fxfeatured/part-1-rogue-one-shows-its-force/)". 
