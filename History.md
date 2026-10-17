@@ -87,7 +87,9 @@ The Charles Hayden Planetarium had an in-house fulldome show production team tha
 
 ## Rogue One: A Star Wars Story (2016)
 
-PlayblastVR for Maya was used by London's [The Third Floor](https://thethirdfloorinc.com/) team on the Star Wars projects.[Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware-rendered virtual production backplates plates that were used extensively in the film inside the XR stage studio. 
+PlayblastVR for Maya was used by London's [The Third Floor](https://thethirdfloorinc.com/) team on the Star Wars projects.[Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware-rendered virtual production backplates plates that were used extensively in the film inside the XR stage studio.
+
+![Rogue One](Images/Rogue-One-Poster.webp)
 
 Interestingly, Margaux's input as an end user was the basis of the re-stitching tools that were added to the PlayblastVR Advanced Control panel. Those addition were included with PlayblastVR to help speed up shot delivery time, and allow resuming of an earlier render job via entering the PID code from a prior batch rendering job.
 
@@ -111,6 +113,16 @@ Interestingly, FX Guide in 2016 covered the Rogue One movie and its virtual prod
 
 ![Playblasting Starwars in 360°](Images/Rogue-One-Playblasts.png)
 
-Something that is novel to think about is the way Rogue One's pioneering virtual production XR stage LED video wall efforts predated the industry's milestone release of Unreal Engine 5.0 (April 5, 2022) by quite a few years!
+###  The Rogue One Film Predated Unreal Engine 5
 
-UE5 was a really big event, for the way it helped bring VP directly into the public consciousness with massive reach and awareness fueled by literal billions spent on development, marketing, and influencer campaigns. And what a time it was to be in the immersive space with so much to see and to do back then! The creative energy in the room, at that time, truly felt electric like anything was possible. Its a rare but wonderful feeling of optimism and enthusiasm felt across an ecosystem. 😉
+Something that is novel to think about is the way the [Rogue One: A Star Wars Story (2016)](https://www.imdb.com/title/tt3748528/) film's pioneering virtual production XR stage LED video wall efforts even predated the industry's milestone release of Unreal Engine 5.0 (April 5, 2022) by many years! UE5, nDisplay, and Disguise would become so entrenched that they would become synonymous with VP.
+
+UE5 was a really big event, for the way it helped bring VP directly into the public consciousness with massive reach and awareness fueled by literal billions spent on development, marketing, and influencer campaigns. And what a time it was to be in the immersive space with so much to see and to do back then! The creative energy in the room, at that time, truly felt electric like anything was possible. Its a rare but wonderful feeling of optimism and enthusiasm felt across an ecosystem.
+
+* * *
+
+Epilogue: About 2 years after the critically acclaimed Rogue One film was released to eager fans, the followup movie "[Solo: A Star Wars Story (2018)](https://www.imdb.com/title/tt3778644/)" was delivered to cinemas. According to [FX Guide, the Han Solo project moved over to using tools like Notch and Disguise](https://www.fxguide.com/fxfeatured/solo-part-2-technical-on-set-immersive-environment/) for their virtual production XR stage efforts.
+
+The Han Solo film was surprisingly, or maybe unsurprisingly, a major box office movie flop that IMHO lacked a lot of the earlier magic and uniqueness... this releases' lackluster performance lead to the inevitable news headlines like [How the Solo: A Star Wars Story Box Office Flop Changed Lucasfilm Forever](https://movieweb.com/solo-star-wars-story-flop-lost-money/).
+
+Really, it just goes to show that sometimes "Lightning in a Bottle" 🌩️ can escape, for a variety of reasons, and what you get in its place is an empty hollow result. That can be seen as a cautionary tale for projects that phone-it-in. 😉
