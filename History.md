@@ -4,7 +4,9 @@ In its prime, the duo of Domemaster3D/PlayblastVR (and eventually its younger si
 
 PlayblastVR was a common tool used on big projects. This occurred in the prior era of "peak-VR" that existed before major DCC packages added their own native 360VR and fulldome capabilities when things went mainstream.
 
-## PlayblastVR for Softimage
+## PlayblastVR 
+
+### PlayblastVR for Softimage
 
 [PlayblastVR for Softimage](https://www.cgchannel.com/2015/11/andrew-hazelden-releases-playblastvr-for-softimage/) had a unique detail that was mentioned in the press of being the final new plugin delivered commercially to Autodesk Softimage users, in the post-cancellation period of XSI's lifecycle. 
 
@@ -13,19 +15,38 @@ The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for So
 ![PlayblastVR for Softimage](Images/PlayblastVR-for-Softimage.png)
 *This is a screenshot of 2014's PlayblastVR for Softimage plug-in*
 
-## PlayblastVR for Maya
+### PlayblastVR for Maya
 
 PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. 
 
 This combo provided a high speed preview capacity, while supporting offline rendering with a best-in-class programmable omni-stereo lens shader that was brought to market in early 2010 with support for texture based control maps to sculpt the stereo 3D viewing experience. This occurred a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017.
 
-![PlayblastVR for Maya](Images/playblastvr-latlong.png)
+![PlayblastVR for Maya](Images/PlayblastVR-for-Maya-LatLong.png)
 
-## Rocket Comp for Maya
+### Rocket Comp for Maya
 
 A Rocket Comp was a pre-compositing companion toolset that worked alongside PlayblastVR for Maya. 
 
-![Rocket Comp](Images/rocketcomp-title.jpg)
+![Rocket Comp](Images/Rocketcomp-for-Maya.jpg)
+
+## Domemaster3D
+
+Domemaster3D was a pioneering omni-stereo 3D lens shader toolset that worked with just about every production renderer that supported 3rd party programmable lens shaders. Autodesk Maya, 3ds Max, and Softimage were supported, along with Mental Ray, V-Ray, Maxwell Render, and Arnold running in a wide range of hosts. The 3rd party renderers made it possible to add support for SideX Houdini, and Maxon C4D, too 
+
+## Domemaster3D for Softimage
+
+The Softimage version of Domemaster3D worked with XSI's built-in mental ray renderer. It shipped with a custom toolbar that made it take only a few clicks to get a new immersive rendering set up configured and active. There was a built-in dome viewer toolset for playing back immersive renderings on a preview mesh surface for quick tech-checks.
+
+![Domemaster3D Toolbar](Images/Domemaster3D-for-Softimage-Toolbar.png)
+
+![Domemaster3D LatLong](Images/Domemaster3D-for-Softimage-LatLong.png)
+
+![Domemaster3D DomeViewer](Images/Domemaster3D-for-Softimage-LatLong-Domeviewer.png)
+
+## Domemaster3D for Maya
+
+The Autodesk Maya built-in Arnold and Mental Ray renderers were supported in Domemaster3D for Maya.
+![Domemaster3D Arnold Shelf](Images/Domemaster3D-for-Maya-Arnold-Shelf.png)
 
 * * *
 
@@ -52,6 +73,17 @@ https://www.chaos.com/cg-garage/cg-garage-podcast-33-justin-denton
 *This is a screenshot from a Pond5 article "[Inside Conan’s Head: How to Animate Your Own VR Masterpiece](https://blog.pond5.com/9535-inside-conans-head-how-to-animate-your-own-vr-masterpiece/)". It talks about a VR experience created by The Molecule, that used the "PlayblastVR for Maya" plug-in, back in the 2016 era of immersive animation*
 
 ![PlayblastVR for Maya](Images/Pond5-Inside-Conans-Head.png)
+
+## Boston Museum of Science Fulldome Shows (2012-2018)
+
+Friends at the Boston Museum of Science "Charles Hayden Planetarium" were involved in a lot of Domemaster3D related shared research efforts. This included Jason Fletcher of the "Fulldome Blog" interviewing me back in ~2015.
+
+YouTube | Meet the Director of the Museum of Science Planetarium  
+https://www.youtube.com/watch?v=vU92uqa6loU  
+
+The Charles Hayden Planetarium had an in-house fulldome show production team that did amazing work with Maya and Mental Ray to produce educational science documentaries on space. A documentary below shows them at work. If you look closely at Jason Fletcher's monitor during the documentary (timecode 2:47) , you will see the familiar Domemaster3D toolbar running inside of Autodesk Maya on his workstation.
+
+![Boston Museum of Science](Images/Boston-Museum-of-Science-Fulldome.png)
 
 ## Rogue One: A Star Wars Story (2016)
 
