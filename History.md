@@ -10,7 +10,7 @@ PlayblastVR was a common tool used on big projects. This occurred in the prior e
 
 [PlayblastVR for Softimage](https://www.cgchannel.com/2015/11/andrew-hazelden-releases-playblastvr-for-softimage/) had a unique detail that was mentioned in the press of being the final new plugin delivered commercially to Autodesk Softimage users, in the post-cancellation period of XSI's lifecycle. 
 
-The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for Softimage user experience, for use by friends like Max Crow at the fulldome show production studio [NSC Creative](https://www.youtube.com/@NSCcreative) in Leicester, UK.
+The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for Softimage user experience, for use by friends like [Max Crow](https://www.youtube.com/watch?v=-WPVNp9_k5E) at the fulldome show production studio [NSC Creative](https://www.youtube.com/@NSCcreative) in Leicester, UK.
 
 ![PlayblastVR for Softimage](Images/PlayblastVR-for-Softimage.png)
 *This is a screenshot of 2014's PlayblastVR for Softimage plug-in*
