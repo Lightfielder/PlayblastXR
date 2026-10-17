@@ -56,6 +56,8 @@ The Autodesk Maya built-in Arnold and Mental Ray renderers were supported in Dom
 
 PlayblastVR for Maya was used by [Justin Denton](https://www.justindenton.com/), and [Jared Sandrew](https://www.jaredsandrew.com) on the Art of Patron Tequila VR experience. This was a factory tour video that shows how the iconic drink was produced from the farm, to the factory, to the final drink served to the customer. The project combined the production talents of [Mirada Studios](https://mirada.com/), First Born, and [Legend3D](https://legend3d.com/) to make a pioneering 360VR stereo experience that could be viewed on YouTube in 360VR with a head mounted display.
 
+![Art of Patron](Images/Art-of-Patreon.png)
+
 YouTube | 360° Video of Hacienda Patrón Tour | Patrón Tequila  
 https://www.youtube.com/watch?v=7NnvksOL96o  
 
