@@ -1,6 +1,6 @@
 # What's PlayblastVR's History?
 
-In its prime, the duo of Domemaster3D/PlayblastVR (and eventually its younger sibling KartaVR) was used commercially by over 175 major VFX, animation, and media companies globally between 2014 - 2017. Some of these projects are visible on the Andrew Hazelden [YouTube collaborations playlist here](https://youtube.com/playlist?list=PLVDcRvd92hci2slU3-UARX9p599UlrY6U&si=8vZBWnKmSccj9Qx_).
+In its prime, the duo of Domemaster3D/PlayblastVR (and eventually its younger sibling KartaVR) was used commercially by over 175 major VFX, animation, and media companies globally between 2014 - 2018. Some of these projects are visible on the Andrew Hazelden [YouTube collaborations playlist here](https://youtube.com/playlist?list=PLVDcRvd92hci2slU3-UARX9p599UlrY6U&si=8vZBWnKmSccj9Qx_).
 
 PlayblastVR was a common tool used on big projects. This occurred in the prior era of "peak-VR" that existed before major DCC packages added their own native 360VR and fulldome capabilities when things went mainstream.
 
