@@ -1,4 +1,4 @@
-# PlayblastXR v5
+# PlayblastXR
 
 This update represents a major rewrite to the previous PlayblastVR immersive previz toolset that supported 18 different image projections. Lightfielder PlayblastXR v5 is latest & greatest edition of PlayblastVR, with a planned release date of mid-November 2026.
 
@@ -8,7 +8,7 @@ You will be able to enjoy this refreshed software as free, LGPL licensed open-so
 
 ## What's New
 
-PlayblastXR v5 ships with an interactive viewport that delivers AOVs (Arbitrary Output Variables) directly from the real-time hardware accelerated graphics framebuffer. The multi-channel / multi-layer image data can be bounced to disk, accessed via in-memory zero copy techniques, or pixel streamed as [OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) compatible render passes. 
+PlayblastXR ships with an interactive viewport that delivers AOVs (Arbitrary Output Variables) directly from the real-time hardware accelerated graphics framebuffer. The multi-channel / multi-layer image data can be bounced to disk, accessed via in-memory zero copy techniques, or pixel streamed as [OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) compatible render passes. 
 
 When you render 2D/3D animation sequences as playblasts, they now include the option of delivering extra AOVs. This is super handy for interactive relighting in post, and for creative stylization purposes inside of a larger "hybrid" content creation pipeline that includes "Renderless Compositing" tools for multi-pass and light-select pass adjustments. 
 
