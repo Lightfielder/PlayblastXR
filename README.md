@@ -1,6 +1,6 @@
 # PlayblastXR v5
 
-This update represents a major rewrite to the previous PlayblastVR v4 immersive previz toolset that supported 18 different image projections. Lightfielder PlayblastXR v5 is latest & greatest edition of PlayblastVR, with a planned release date of mid-November 2026.
+This update represents a major rewrite to the previous PlayblastVR immersive previz toolset that supported 18 different image projections. Lightfielder PlayblastXR v5 is latest & greatest edition of PlayblastVR, with a planned release date of mid-November 2026.
 
 You will be able to enjoy this refreshed software as free, LGPL licensed open-source tools, too! 🇨🇦
 
