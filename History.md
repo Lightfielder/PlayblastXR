@@ -95,7 +95,7 @@ The Charles Hayden Planetarium had an in-house fulldome show production team tha
 
 ## Rogue One: A Star Wars Story (2016)
 
-PlayblastVR for Maya was used by London's [The Third Floor](https://thethirdfloorinc.com/) team on the Star Wars projects.[Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware-rendered virtual production backplates plates that were used extensively in the film inside the XR stage studio.
+PlayblastVR for Maya was used by London's [The Third Floor](https://thethirdfloorinc.com/) team on Rogue One era Star Wars projects and immersive 360VR efforts. [Margaux Durand Rival](https://www.imdb.com/name/nm5413863/) a senior previz supervisor at the Third Floor in London used the PlayblastVR for Maya plugin to deliver the 360 degree wrap-around PBR based hardware-rendered virtual production backplates plates that were used extensively in the film inside the XR stage studio. This provided realistic lighting, and reflections onset.
 
 ![Rogue One](Images/Rogue-One-Poster.webp)
 
@@ -123,7 +123,7 @@ Interestingly, FX Guide in 2016 covered the Rogue One movie and its virtual prod
 
 ###  The Rogue One Film Predated Unreal Engine 5
 
-Something that is novel to think about is the way the [Rogue One: A Star Wars Story (2016)](https://www.imdb.com/title/tt3748528/) film's pioneering virtual production XR stage LED video wall efforts even predated the industry's milestone release of Unreal Engine 5.0 (April 5, 2022) by many years! UE5, nDisplay, and Disguise would become so entrenched that they would become synonymous with VP.
+Something that is novel to think about is the way the [Rogue One: A Star Wars Story (2016)](https://www.imdb.com/title/tt3748528/) film's pioneering virtual production XR stage LED video wall efforts even predated the industry's milestone release of Unreal Engine 5.0 (April 5, 2022) by many years! UE5, nDisplay, and Disguise would become so entrenched that they would eventually become synonymous with VP.
 
 UE5 was a really big event, for the way it helped bring VP directly into the public consciousness with massive reach and awareness fueled by literal billions spent on development, marketing, and influencer campaigns. And what a time it was to be in the immersive space with so much to see and to do back then! The creative energy in the room, at that time, truly felt electric like anything was possible. Its a rare but wonderful feeling of optimism and enthusiasm felt across an ecosystem.
 
