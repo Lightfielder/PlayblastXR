@@ -17,21 +17,21 @@ The PlayblastVR port was created to help unify the Domaster3D/PlayblastVR for So
 
 ### PlayblastVR for Maya
 
-PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. This combo of PlayblastVR providing a high speed preview capacity, while Domemaster3D supported offline rendering with a best-in-class programmable omni-stereo lens shader. The lens shaders supported the use ofr texture based "control maps" to sculpt the stereo 3D viewing experience. 
+PlayblastVR for Maya was created as a companion toolset to the Domemaster3D raytraced lens shaders. This combo of PlayblastVR providing a high speed preview capacity, while Domemaster3D brought offline rendering with several best-in-class programmable omni-stereo raytraced lens shaders. The lens shaders supported the use of texture-based "control maps" to fully sculpt the stereo 3D viewing experience. 
 
 ![PlayblastVR for Maya](Images/PlayblastVR-for-Maya-LatLong.png)
 
 The Domemaster3D toolset existed a full 7 years before most big-box software companies entered the VR zone in the first half of ~2017!
 
-PlayblastVR supported a deep set of features that far exceeded the native playblasting capabilities in Maya for the level of customization and control. PlayblastVR also moved Playblasting over to using the Maya Render Settings window so you could access render output based filename tokens and more. It even allowed for headless batch rendering to occur without having a Maya GUI session active via OpenGL rendering with mayabatch.
+The PlayblastVR previz rendererer shipped with a set of unique tools that far exceeded the native playblasting capabilities present in Maya, when looking at the level of art-directable customization and control provided. PlayblastVR also moved Playblasting workflows over to using the Maya Render Settings window so you could access render output based filename tokens and more. It even allowed for headless batch rendering to occur without having a Maya GUI session active via OpenGL rendering with mayabatch.
 
-You could even tear the PlayblastVR menu system off from the main menu bar to allow you to float the menu onto another monitor. This was handy on dual monitor based Maya workstation configurations.
+You could even tear the PlayblastVR menu system off from the main menu bar which allowed you to float the menu onto another monitor. This was handy on dual monitor based Maya workstation configurations.
 
 ![PlayblastVR for Maya Menu- Torn Off](Images/PlayblastVR-for-Maya-Menu-Torn-Off.png)
 
 ### Rocket Comp for Maya
 
-A Rocket Comp was a pre-compositing companion toolset that worked alongside PlayblastVR for Maya. 
+A Rocket Comp was a pre-compositing companion toolset that worked alongside PlayblastVR for Maya. Rocket Comp directly supported a majority of the compositing, design, and video editing tools of the era.
 
 ![Rocket Comp](Images/Rocketcomp-for-Maya.jpg)
 
